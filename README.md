@@ -11,7 +11,8 @@ The Docmosis render service can:
     cloud or any combination. You can even stream, say a PDF whilst
     emailing a DOC in the single request.
   - the template features are many including:
-    - text insertion anywhere (headers, footers, body, text boxes, tables)
+    - text insertion anywhere (headers, footers, body, text boxes,
+      tables)
     - image insertion (headers, footers, body, tables)
     - table expansion and manipulation
     - content stripping / repetition
@@ -20,8 +21,12 @@ The Docmosis render service can:
 
 You require Java 1.5 or later.
 
+[Docmosis Cloud Resources](https://www.docmosis.com/resources/cloud.html)
+
+[Docmosis Tornado Resources](https://www.docmosis.com/resources/tornado.html)
+
 Please look at the sample code in the "samples" directory for some
 example code to get started. More information about rendering
 documents can be found in the Web Services Guide and the Template
-Guide in the Docmosis support site
-[http://www.docmosis.com](http://www.docmosis.com/resources/all-resources.html)
+Guide in the
+[Docmosis Support Site](https://www.docmosis.com/resources/all-resources.html).
